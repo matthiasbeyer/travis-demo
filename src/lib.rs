@@ -1,3 +1,4 @@
+#![doc(html_root_url = "https://matthiasbeyer.github.io/travis-demo/")]
 #![crate_name = "travisdemo"]
 #![crate_type = "lib"]
 
