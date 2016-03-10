@@ -1,4 +1,4 @@
-#![crate_name = "travis-demo"]
+#![crate_name = "travisdemo"]
 #![crate_type = "lib"]
 
 //! This is a comment.
